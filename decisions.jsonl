@@ -1,0 +1,2 @@
+{"question": "What does len() return?", "route": "small", "choice": "simple", "confidence": 0.8345, "reason": "confident it is simple", "latency_ms": 4460.89, "bedrock_ms": 1562}
+{"question": "What is a loop?", "route": "small", "choice": "simple", "confidence": 0.9135, "reason": "confident it is simple", "latency_ms": 3980.71, "bedrock_ms": 1162}
